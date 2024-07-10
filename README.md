@@ -1,1 +1,3 @@
 # landing-page
+Project: Landing Page Using HTML and CSS
+I have created a visually appealing and responsive landing page using HTML and CSS. This project showcases a modern design with a clear call-to-action, making it perfect for promoting a product, service, or event. The landing page includes a header with navigation, a hero section with engaging visuals, and well-structured content sections to highlight key features. By utilizing CSS for styling, I ensured a consistent and aesthetically pleasing look across different devices and screen sizes. This project demonstrates my ability to create professional web pages with clean, maintainable code and effective design principles.
